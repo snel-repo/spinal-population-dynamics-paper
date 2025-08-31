@@ -1,0 +1,25 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (optional)
+.vscode/
+
+# Environments (if local, not managed via environment.yml)
+env/
+venv/
+.env/
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
