@@ -1,0 +1,9 @@
+name: spinal-pop-dyn-figs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7.9
+  - numpy=1.18.1
+  - colorcet=3.0.0
+  - pandas=1.3.5
